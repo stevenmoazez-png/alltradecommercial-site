@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 570 100" role="img" aria-labelledby="title desc">
+  <title id="title">All Trade Commercial</title>
+  <desc id="desc">All Trade Commercial logo</desc>
+  <g transform="translate(2 2)">
+    <path d="M48 5 6 91h20l8.5-18h27L70 91h20L48 5Zm0 38 6.5 15H41.5L48 43Z" fill="#0B2545"/>
+    <path d="M35 64h26L57 73H31l4-9Z" fill="#F2762E"/>
+    <path d="M51 5h14L99 91H79L51 31V5Z" fill="#F2762E" opacity=".95"/>
+  </g>
+  <g fill="#0B2545" font-family="Arial, Helvetica, sans-serif">
+    <text x="119" y="49" font-size="42" font-weight="800" letter-spacing="1.5">ALL TRADE</text>
+    <text x="121" y="77" font-size="17" font-weight="700" letter-spacing="6.7" fill="#D95F1A">COMMERCIAL</text>
+  </g>
+</svg>
