@@ -580,3 +580,15 @@ h1, h2, .hero h1, .page-hero h1, .section-head h2, .cta-band h2 { font-family: v
   .gallery img { margin-bottom: 12px; }
   .hero.photo { padding: 90px 0 100px; }
 }
+
+/* ---------- Testimonials ---------- */
+.quotes { display: grid; grid-template-columns: repeat(2, 1fr); gap: 26px; }
+.quote {
+  background: var(--white);
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  padding: 32px 30px;
+}
+.quote p.q { font-family: var(--serif); font-size: 19px; color: #191712; line-height: 1.5; }
+.quote .who { margin-top: 16px; font-weight: 700; color: var(--slate); font-size: 14.5px; }
+@media (max-width: 680px) { .quotes { grid-template-columns: 1fr; } }
