@@ -43,7 +43,7 @@ if [ -n "$work_photos" ]; then
   tags=""
   while IFS= read -r p; do
     rel="/assets/photos/work/$(basename "$p")"
-    tags="$tags        <img src=\"$rel\" alt=\"Completed plumbing and handyman work\" loading=\"lazy\" />\n"
+    tags="$tags        <img src=\"$rel\" alt=\"Commercial plumbing and handyman services\" loading=\"lazy\" />\n"
   done <<< "$work_photos"
 
   python3 - "$INDEX" "$tags" << 'PYEOF'
