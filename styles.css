@@ -71,7 +71,7 @@ header.site {
   text-decoration: none;
   color: var(--navy);
 }
-.brand .logo { width: 214px; height: auto; display: block; }
+.brand .logo { width: 226px; height: auto; display: block; }
 nav.links { display: flex; align-items: center; gap: 26px; }
 nav.links a {
   text-decoration: none;

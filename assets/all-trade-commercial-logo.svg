@@ -1,13 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 570 100" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 650 112" role="img" aria-labelledby="title desc">
   <title id="title">All Trade Commercial</title>
   <desc id="desc">All Trade Commercial logo</desc>
-  <g transform="translate(2 2)">
-    <path d="M48 5 6 91h20l8.5-18h27L70 91h20L48 5Zm0 38 6.5 15H41.5L48 43Z" fill="#0B2545"/>
-    <path d="M35 64h26L57 73H31l4-9Z" fill="#F2762E"/>
-    <path d="M51 5h14L99 91H79L51 31V5Z" fill="#F2762E" opacity=".95"/>
+  <g transform="translate(0 8)">
+    <rect width="96" height="96" rx="18" fill="#0B2545"/>
+    <!-- A durable, structural A: a single orange crossbar signals the service connection. -->
+    <path d="M14 78 39 18h18l25 60H63l-6-16H39l-6 16H14Zm31-41-2 7-8 21h26l-8-21-2-7h-6Z" fill="#FFF"/>
+    <path d="M31 61h35l-5 11H27l4-11Z" fill="#F2762E"/>
   </g>
-  <g fill="#0B2545" font-family="Arial, Helvetica, sans-serif">
-    <text x="119" y="49" font-size="42" font-weight="800" letter-spacing="1.5">ALL TRADE</text>
-    <text x="121" y="77" font-size="17" font-weight="700" letter-spacing="6.7" fill="#D95F1A">COMMERCIAL</text>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="122" y="54" fill="#0B2545" font-size="43" font-weight="800" letter-spacing=".5">ALL TRADE</text>
+    <path d="M124 67h82l-7 7h-75v-7Z" fill="#F2762E"/>
+    <text x="122" y="95" fill="#536577" font-size="18" font-weight="700" letter-spacing="6.2">COMMERCIAL</text>
   </g>
 </svg>
