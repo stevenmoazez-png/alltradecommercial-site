@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" role="img" aria-label="All Trade Commercial">
+  <rect width="100" height="100" rx="20" fill="#0B2545"/>
+  <path d="M34 39h32M34 39 50 69M66 39 50 69" fill="none" stroke="#F2762E" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="19" y="23" width="30" height="25" rx="5" fill="#FFF"/>
+  <rect x="51" y="23" width="30" height="25" rx="5" fill="#FFF"/>
+  <rect x="35" y="63" width="30" height="25" rx="5" fill="#FFF"/>
+  <path d="M41 35h10M57 35h10M46 76h8" stroke="#0B2545" stroke-width="4" stroke-linecap="round"/>
+</svg>
